@@ -5,6 +5,9 @@
 ```
 Lógica de programação é nada mais nada menos que uma forma de raciocínio para resolver problemas em programação.
 Ex: Como você iria até a cozinha fritar um ovo para comer?
+```
+```
+Ex: Como você iria até a cozinha fritar um ovo para comer?
 1 - Levantar da cadeira
 2 - Andar até a cozinha
 3 - Andar até a geladeira onde fica os ovos
@@ -19,8 +22,13 @@ Ex: Como você iria até a cozinha fritar um ovo para comer?
 12 - Pegar uma colher e mexer os ovos da forma que eu preferir
 13 - Após os ovos fritos desligar o fogo
 14 - Pegar um Prato e colocar os ovos
-
-Esse seria um pequeno exemplo de como funciona a lógica de algo, nós fazemos isso várias vezes no dia-a-dia e nem percebemos, quase tudo tem uma formula de se fazer e na programação não é diferente.
+```
+```
+Esse seria um pequeno exemplo de como funciona a lógica de algo, 
+nós fazemos isso várias vezes no dia-a-dia e nem percebemos, 
+quase tudo tem uma formula de se fazer e na programação não é diferente.
+```
+```
 Ex: codigo simples da soma de 2 valores
 
 //criando a variavel e colocando oh seu valor
@@ -35,9 +43,9 @@ let result = val1 + val2;
 console.log(result)
 
 Saida = 8
-
-ou 
-
+```
+Ou 
+```
 Este codigo abaixo funciona exatamente como o anterior mas com uma logica diferente e com uma refatoração que é um assunto para depois.
 
 //criando uma função que tem como argumento 2 variaveis
@@ -48,12 +56,20 @@ function somar(val1,val2){
 
 //chamando a função no console e determinando quais valores eu quero para a soma e retornando a operação
 console.log(somar(5,3))
+```
+```
+Percebam que oh codigo executa exatamente aquilo que eu mandei ele fazer, lógica de programação é isso,
+você determina a logica de como vai resolver um problema e o computador executa, 
+mas caso essa lógica não faça sentido o computador mesmo assim vai fazer oque você mandou,
+e mesmo que não siga a lógica vai executar, 
+a diferença é que ele não vai te entregar um resultado esperar ou vai dar um erro.
 
-Percebam que oh codigo executa exatamente aquilo que eu mandei ele fazer, lógica de programação é isso, você determina a logica de como vai resolver um problema e o computador executa, mas caso essa lógica não faça sentido o computador mesmo assim vai fazer oque você mandou e mesmo que não siga a lógica vai executar, a diferença é que ele não vai te entregar um resultado esperar ou vai dar um erro.
-
-Isso é um pouco sobre logica de programação e como eu entendo, vou deixar um sites abaixo onde eu treino a minha lógica de programação nas linguagens com que eu trabalho, e lembrando a lógica é promordial para qualquer linguagem que você escolha.
-
-
+Isso é um pouco sobre logica de programação e como eu entendo, 
+vou deixar um sites abaixo onde eu treino a minha lógica de programação nas linguagens com que eu trabalho, 
+e lembrando a lógica é promordial para qualquer linguagem que você escolha.
+```
+```
+Sites para treinar lógica:
 https://www.beecrowd.com.br
 https://leetcode.com/
 ```
