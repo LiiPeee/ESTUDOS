@@ -1,10 +1,9 @@
-# ARTIGO
+# APRENDIZADO
 
 # LÓGICA DE PROGRAMAÇÃO
 
 ```
 Lógica de programação é nada mais nada menos que uma forma de raciocínio para resolver problemas em programação.
-Ex: Como você iria até a cozinha fritar um ovo para comer?
 ```
 ```
 Ex: Como você iria até a cozinha fritar um ovo para comer?
@@ -30,31 +29,44 @@ quase tudo tem uma formula de se fazer e na programação não é diferente.
 ```
 ```
 Ex: codigo simples da soma de 2 valores
+```
 
-//criando a variavel e colocando oh seu valor
+ - **criando a variavel e colocando oh seu valor**
+```
 const val1 = 5;
-//criando a segunda variavel e colocando seu valor
+```
+ - **criando a segunda variavel e colocando seu valor**
+```
 const val2 = 3;
+```
 
-//criando uma variavel que recebe as duas variaveis anteriores e soma as duas
+- **criando uma variavel que recebe as duas variaveis anteriores e soma as duas**
+```
 let result = val1 + val2;
-
-//retornando para o resultado da soma das duas variaveis, chamando a variavel que estava fazendo a operação
+```
+- **retornando para o resultado da soma das duas variaveis, chamando a variavel que estava fazendo a operação**
+```
 console.log(result)
-
+```
+```
 Saida = 8
 ```
+
 Ou 
 ```
 Este codigo abaixo funciona exatamente como o anterior mas com uma logica diferente e com uma refatoração que é um assunto para depois.
-
-//criando uma função que tem como argumento 2 variaveis
+```
+- **criando uma função que tem como argumento 2 variaveis**
+```
 function somar(val1,val2){
-    //retornando a soma dessas duas variaveis, mas aqui é apenas o retorno interno sem mostrar no console
+    
     return val1 + val2;
 }
+```
+- **retornando a soma dessas duas variaveis, mas aqui é apenas o retorno interno sem mostrar no console**
 
-//chamando a função no console e determinando quais valores eu quero para a soma e retornando a operação
+- **chamando a função no console e determinando quais valores eu quero para a soma e retornando a operação-**
+```
 console.log(somar(5,3))
 ```
 ```
