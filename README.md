@@ -63,6 +63,7 @@ https://leetcode.com/
 ```
 S = SINGLE RESPONSABILITY PRINCIPLE
 - Cada classe metodo e afins tem a sua responsabilidade, um service serve somente para montagem de metodos, como um controller em Java serve somente para fazer a ligação REST. 
+```
 
 ```
 O = OPEN CLOSED PRINCIPLE
