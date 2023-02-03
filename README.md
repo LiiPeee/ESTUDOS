@@ -68,14 +68,17 @@ S = SINGLE RESPONSABILITY PRINCIPLE
 O = OPEN CLOSED PRINCIPLE
 - Esse princípio nos diz que, ao criar um objeto ou entidade, devemos prepará-lo para que possa ser implementado por outro futuramente. Assim, não será necessário modificar o objeto pai.
 ```
+
 ```
 L = LISKOV SUBISTITUTION PRINCIPLE
 - Sendo mais direto, esse princípio nos diz que, se uma função necessita de uma classe que está sendo implementada por outras, podemos utilizar tanto a classe base quanto as classes que são derivadas desta primeira. Isso porque todas seguem os mesmos padrões, alterando apenas as implementações da original.
+```
 
 ```
 I = INTERFACE SEGREGATION PRINCIPLE
 - Esse princípio mostra que devemos criar interfaces mais específicas para nossos objetos, ao invés de uma classe mais genérica para todos do mesmo tipo.
 ```
+
 ```
 D  = DEPENDENCY INVERSION PRINCIPLE 
 
