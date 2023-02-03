@@ -62,22 +62,27 @@ https://leetcode.com/
 
 ```
 S = SINGLE RESPONSABILITY PRINCIPLE
-- Cada classe metodo e afins tem a sua responsabilidade, um service serve somente para montagem de metodos, como um controller em Java serve somente para fazer a ligação REST. 
+- Cada classe metodo e afins tem a sua responsabilidade, um service serve somente para montagem de metodos, 
+como um controller em Java serve somente para fazer a ligação REST. 
 ```
 
 ```
 O = OPEN CLOSED PRINCIPLE
-- Esse princípio nos diz que, ao criar um objeto ou entidade, devemos prepará-lo para que possa ser implementado por outro futuramente. Assim, não será necessário modificar o objeto pai.
+- Esse princípio nos diz que, ao criar um objeto ou entidade, devemos prepará-lo para que possa ser implementado por outro futuramente.
+ Assim, não será necessário modificar o objeto pai.
 ```
 
 ```
 L = LISKOV SUBISTITUTION PRINCIPLE
-- Sendo mais direto, esse princípio nos diz que, se uma função necessita de uma classe que está sendo implementada por outras, podemos utilizar tanto a classe base quanto as classes que são derivadas desta primeira. Isso porque todas seguem os mesmos padrões, alterando apenas as implementações da original.
+- Sendo mais direto, esse princípio nos diz que, se uma função necessita de uma classe que está sendo implementada por outras,
+ podemos utilizar tanto a classe base quanto as classes que são derivadas desta primeira. Isso porque todas seguem os mesmos padrões,
+ alterando apenas as implementações da original.
 ```
 
 ```
 I = INTERFACE SEGREGATION PRINCIPLE
-- Esse princípio mostra que devemos criar interfaces mais específicas para nossos objetos, ao invés de uma classe mais genérica para todos do mesmo tipo.
+- Esse princípio mostra que devemos criar interfaces mais específicas para nossos objetos,
+ ao invés de uma classe mais genérica para todos do mesmo tipo.
 ```
 
 ```
@@ -87,5 +92,7 @@ Sobre esse princípio, Uncle Bob nos confere duas definições:
 
 “Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender da abstração”;
 “Abstrações não devem depender de detalhes. Detalhes devem depender de abstrações”.
-Com a Inversão de Dependência, conseguimos desacoplar nossas classes de bibliotecas específicas e fazer com que outras ferramentas possam ser utilizadas no lugar desta primeira. Assim, as classes utilizarão abstrações de interfaces ao invés de outras classes ou de instâncias objetos. 
+Com a Inversão de Dependência, conseguimos desacoplar nossas classes de bibliotecas específicas e 
+fazer com que outras ferramentas possam ser utilizadas no lugar desta primeira. Assim, 
+as classes utilizarão abstrações de interfaces ao invés de outras classes ou de instâncias objetos. 
 ```
