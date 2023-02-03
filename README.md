@@ -27,8 +27,13 @@ Ex: Como você iria até a cozinha fritar um ovo para comer?
 
 ```
 Esse seria um pequeno exemplo de como funciona a lógica de algo, 
-nós fazemos isso várias vezes no dia-a-dia e nem percebemos, 
-quase tudo tem uma formula de se fazer e na programação não é diferente.
+e neste exemplo você pode parar e perceber que faltam alguns passos bem minimos,
+para executar oque eu queria, mas na hora de programar é diferente,
+o computador vai seguir a risca oque você mandar ele executar através da linguagem,
+então na hora de montar um codigo temos que pensar na lógica e deixar bem detalhado,
+para que o computador nos entregue oque queremos.
+Nós seguimos uma lógica várias vezes no dia-a-dia e nem percebemos, 
+desde ir fritar um ovo, até ir escovar os dentes e várias outras coisas tem um passo a passo para aquilo.
 ```
 
 ```
